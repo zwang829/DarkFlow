@@ -37,7 +37,6 @@ l3_sensor_top
 | `l3_sensor_top.v` | Top-level L3 sensor (8 rows); instantiates rows, timer, and dual packing banks |
 | `l3_packing_bank.v` | Assembles 4 row streams into 128-bit FIFO words with heartbeat flush and backpressure |
 | `l3_timer.v` | Absolute 30-bit timer; generates periodic `global_sync` and Time Wall packets |
-| `l3_timer.txt` | Text copy of `l3_timer.v` |
 
 
 ## Reference
