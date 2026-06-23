@@ -8,6 +8,8 @@ DOI: https://doi.org/10.1145/3787109.3815257
 
 The PDF included in this repository is the **author's corrected version**. It contains a minor correction in Figure 6 where the x-axis data have been multiplied by 10^9 to align with the hits/s/pixel unit used in the text. The conference proceedings inadvertently omitted this scaling. All textual and mathematical analysis remain unchanged.
 
+> **Please cite the official ACM publication, not this repository:**
+
 ## Hierarchy (brief)
 
 ```
